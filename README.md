@@ -1,5 +1,7 @@
 QUHACK Submission Report
-Git repository: darolo95/QUHACK (collaborators: ItzEnes, darolo95)
+
+Git repository: ItzEnes/QUHACK (collaborators: darolo95)
+
 Authors: E. YILDIZ & D. Tafrishi - xbluegalaxyx - Team Quackers
 Contest: MIT IQuHack 2026
 Date: 2026-02-01
